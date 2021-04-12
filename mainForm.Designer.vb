@@ -47,7 +47,7 @@ Partial Class mainForm
         Me.author.Name = "author"
         Me.author.Size = New System.Drawing.Size(244, 20)
         Me.author.TabIndex = 1
-        Me.author.Text = "Author: Nguyen Hoang Gia Bao"
+        Me.author.Text = "Author:get fucked"
         Me.author.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'logo
@@ -76,7 +76,7 @@ Partial Class mainForm
         Me.Name = "mainForm"
         Me.ShowInTaskbar = False
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Hydra Virus"
+        Me.Text = "Whats app plz"
         CType(Me.logo, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
