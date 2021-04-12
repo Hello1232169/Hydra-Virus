@@ -6,7 +6,7 @@ End Module
 
 Public Class mainForm
     Private Sub mainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        oathLabel.Text = "Cut off one head, two more shall take its place!" + Environment.NewLine + "Hail Hydra!"
+        oathLabel.Text = "Whats app plz." + Environment.NewLine + "cmon man"
 
         If (isFirstForm = True) Then
             isFirstForm = False
